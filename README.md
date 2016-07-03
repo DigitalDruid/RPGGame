@@ -1,2 +1,0 @@
-# RPGGame
-RPG prototype
